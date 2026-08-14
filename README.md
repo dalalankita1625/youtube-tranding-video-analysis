@@ -20,7 +20,6 @@ The analysis was performed using Python and data analysis libraries to clean, ex
 * Pandas
 * NumPy
 * Matplotlib
-* Seaborn
 * Jupyter Notebook / Google Colab
 
 ## Data Analysis
